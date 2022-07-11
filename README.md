@@ -1,1 +1,0 @@
-# Analisa-Klasifikasi-Pinjaman-UMKM
